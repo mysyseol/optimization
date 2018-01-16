@@ -1,2 +1,3 @@
 # optimization
-my study
+
+Optimization (scipy.optimize)
